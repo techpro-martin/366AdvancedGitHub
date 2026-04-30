@@ -18,3 +18,6 @@ let string6 = "Techpro version 3";
 
 //t5
 let string7 = "t5";
+
+//t6
+let string8 = "t6";
