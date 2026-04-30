@@ -9,3 +9,6 @@ let string3 = "Version t10";
 
 //t11
 let string4 = "Version t11";
+
+//r1
+let string5 = "Version r1";
