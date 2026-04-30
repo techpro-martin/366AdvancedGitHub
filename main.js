@@ -22,5 +22,8 @@ let string7 = "t5";
 //t6
 let string8 = "t6";
 
-//t7"
+//t7
 let string9 = "t7";
+
+//t8
+let string10 = "t8";
