@@ -12,3 +12,6 @@ let string4 = "Techpro branch, hello again world";
 
 //t2
 let string5 = "Another string in Techpro branch";
+
+//t3
+let string6 = "Techpro version 3";
